@@ -58,6 +58,3 @@ pip install PyPDF2 tqdm
 * The output may contain non-alphanumeric symbols as artifacts from the PDF-to-text conversion performed by `PyPDF2`. This is a known limitation due to inconsistencies in PDF formatting.
 * Since this is a simple proximity search (rather than a large language model), the output should be reviewed by a human to ensure relevance and accuracy.
 
-## Licence
-
-This tool is provided as-is for academic and other non-commercial use. Modify freely with attribution.
